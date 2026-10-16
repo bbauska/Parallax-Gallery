@@ -4,13 +4,15 @@ A Pen created on CodePen.
 
 Original URL: [https://codepen.io/ol-ivier/pen/LERzpKJ](https://codepen.io/ol-ivier/pen/LERzpKJ).
 
-A dynamic, infinite scrolling image wall built with Three.js. Five distinct parallax layers move at different speeds and scales, creating a rich sense of depth. Images are randomly loaded from a curated Unsplash collection without repetition, and each sprite features subtle vertical floating and gentle pulsing animations.
+A dynamic, infinite scrolling image wall built with Three.js. <b>Five</b> distinct parallax layers move at different speeds and scales, creating a 
+rich sense of depth. Images are randomly loaded from a curated Unsplash collection without repetition, and each sprite features subtle vertical 
+floating and gentle pulsing animations.
 
 Interactive controls:
 <ul>
-  <li>• Drag horizontally (mouse or touch) to browse with inertia.</li>
-  <li>• Use the mouse wheel to instantly accelerate scrolling in either direction.</li>
-  <li>• The scene automatically recycles sprites for seamless infinite navigation.</li>
+  <li>Drag horizontally (mouse or touch) to browse with inertia.</li>
+  <li>Use the mouse wheel to instantly accelerate scrolling in either direction.</li>
+  <li>The scene automatically recycles sprites for seamless infinite navigation.</li>
 </li>
 
 All layers have configurable speed, opacity, and scale to enhance the depth effect. 
